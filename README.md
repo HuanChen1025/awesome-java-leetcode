@@ -15,8 +15,8 @@ If you feel benefited from Leetcode and loves it, please consider to [donate to 
 
 |  #  |      Title     |   Solutions   | Time          | Space         | Video  | Difficulty  | Tag                   
 |-----|----------------|---------------|---------------|---------------|--------|-------------|-------------
-|4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[Solution](../master/src/main/java/com/fishercoder/solutions/_4.java) | ? | ? | |Hard | Divide and Conquer
-|3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Solution](../master/src/main/java/com/fishercoder/solutions/_3.java) | O(n) | O(k) | |Medium | HashMap, Sliding Window
-|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[Solution](../master/src/main/java/com/fishercoder/solutions/_2.java) | O(max(m,n)) | O(1) | |Medium | LinkedList
-|1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Solution](../master/src/main/java/com/fishercoder/solutions/_1.java)| O(n)| O(n) ||Easy| HashMap 
+|4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[Solution](../master/src/main/java/com/HuanChen/solutions/_4.java) | ? | ? | |Hard | Divide and Conquer
+|3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Solution](../master/src/main/java/com/HuanChen/solutions/_3.java) | O(n) | O(k) | |Medium | HashMap, Sliding Window
+|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[Solution](../master/src/main/java/com/HuanChen/solutions/_2.java) | O(max(m,n)) | O(1) | |Medium | LinkedList
+|1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Solution](../master/src/main/java/com/HuanChen/solutions/_1.java)| O(n)| O(n) ||Easy| HashMap 
 
